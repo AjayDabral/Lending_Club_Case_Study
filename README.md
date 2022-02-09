@@ -24,18 +24,25 @@ A consumer finance company which specialises in lending various types of loans t
 - We are using Lending Club Loan Dataset.
 
 
-
 ## Conclusions
 - Approx. 15 % of Borrowers have defaulted on their loans, while  85 % have Fully paid their loans.
 
-- As we move from Grade A to Grade G, interest rate increases and so does the chances of loan defaults.
+- As we move from Grade A to Grade G, interest rate increases and so does the loan defaults.
+
        This suggests that financial institution charges higher interest  rates for borrowers having poor grades
 
 - It is observed that the Borrowers having higher incomes are less likely to default on their loans
 
-- Higher the revolving credit utilization percentage of a borrower, higher the chances of loan default. 
+- Higher the revolving credit utilization percentage of a borrowers, higher number of  loan default. 
  
-- Loan given for Debt consolidation and credit card are more prone to default.
+- Loans taken for the purpose of Debt consolidation and credit card have higher number of default.
+
+## Five Important variable for identifying defaulters
+- Grades
+- Interest Rate
+- Revolving Credit Utilization
+- Annual Income
+- Purpose
 
 
 
